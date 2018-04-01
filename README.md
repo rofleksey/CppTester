@@ -13,7 +13,7 @@ It simply passes user-defined input in target executable's stdin (or file) and c
 
 Typical usage:
 ```
-tester.js --dir tests --stdin --app main.exe
+node tester.js --dir tests --stdin --app main.exe
 ```
 
 ## Installation
